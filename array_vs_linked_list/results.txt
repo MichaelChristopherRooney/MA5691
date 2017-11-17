@@ -1,0 +1,6 @@
+NUM_PASSES = 1000
+SIZE = 1000
+PADDING = 4096
+
+Array: 		0.01% D1 and LLd miss rate
+Linked list: 	12.3% D1 miss rate, 0% LLd miss rate
