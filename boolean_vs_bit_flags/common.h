@@ -1,2 +1,0 @@
-#define SIZE 10000
-#define NUM_PASSES 1000

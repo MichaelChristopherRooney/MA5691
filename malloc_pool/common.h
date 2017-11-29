@@ -29,6 +29,7 @@ void setup_non_pool_array(){
 	int i;
 	for(i = 0; i < SIZE; i++){
 		array_without_pool[i] = malloc(sizeof(struct example) + PADDING);
+		
 	}
 }
 
