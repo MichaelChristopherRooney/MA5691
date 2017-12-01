@@ -7,7 +7,8 @@
 #define NUM_ITERATIONS 100
 
 struct test_int {
-	 uint32_t values;
+	int values;
+	int vec[3];
 };
 
 int main(void){

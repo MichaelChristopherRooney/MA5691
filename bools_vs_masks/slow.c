@@ -10,6 +10,7 @@
 
 struct test_bool {
 	bool values[32];
+	int vec[3];
 };
 
 int main(void){
